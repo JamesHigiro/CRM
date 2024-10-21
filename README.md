@@ -13,6 +13,7 @@ NEXT_PUBLIC_MOCKAROO_API=1d336f50
 ```bash
 npm install
 ```
+After, check the port your server is running on and run in the browser http://localhost:{PORT NUMBER}/
 
 ## Third, run the development server:
 
