@@ -11,7 +11,7 @@ NEXT_PUBLIC_MOCKAROO_API=1d336f50
 ## Second, install the dependencies:
 
 ```bash
-npm run dev
+npm install
 ```
 
 ## Third, run the development server:
